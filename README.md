@@ -1,2 +1,2 @@
 # autowiring-bug
-spring framework autowiring issue
+spring framework autowiring issue with bounded generics
